@@ -1,9 +1,16 @@
+# Laravel
+.env
+/vendor/
+/node_modules/
+/storage/
+/bootstrap/cache/
 /vendor/
 __MACOSX/
 ._*
 node_modules/
 npm-debug.log
 yarn-error.log
+find(1)
 
 # Laravel 4 specific
 bootstrap/compiled.php
