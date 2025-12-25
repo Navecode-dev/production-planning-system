@@ -34,7 +34,7 @@ A web-based production planning and inventory optimization system designed to su
 
 This system implements proven operations research techniques:
 
-- **ELECTRE (Elimination and Choice Expressing Reality)** - Multi-criteria decision analysis method for ranking and selecting alternatives
+- **ELECTRE (Elimination Et Choix Traduisant la Realité)** - Multi-criteria decision analysis method for ranking and selecting alternatives
 - **Economic Order Quantity (EOQ)** - Determines the optimal order quantity that minimizes total inventory costs
 - **Reorder Point (ROP)** - Calculates when to place new orders based on lead time and demand
 - **Safety Stock Calculation** - Determines buffer inventory levels to prevent stockouts
@@ -153,7 +153,6 @@ Additional documentation is available in the `/docs` directory:
 
 - System architecture diagrams
 - Database schema documentation
-- API documentation (if applicable)
 - User manual
 - Screenshots and feature guides
 
