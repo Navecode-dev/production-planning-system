@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Evan Dian Fadilah**
 
 - Email: hinavecode.dev@gmail.com
-- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/evan-dian-fadilah-1a2207265/))
+- LinkedIn: [Evan Dian Fadilah](https://www.linkedin.com/in/evan-dian-fadilah-1a2207265)
 
 ## Support
 
@@ -190,7 +190,7 @@ If you encounter any issues or have questions:
 
 ## Acknowledgments
 
-This project demonstrates the practical implementation of decision support systems and inventory optimization techniques in production planning contexts. It was developed as part of [your purpose - thesis/coursework/professional project].
+This project demonstrates the practical implementation of decision support systems and inventory optimization techniques in production planning contexts. It was developed as part of my thesis.
 
 ---
 
